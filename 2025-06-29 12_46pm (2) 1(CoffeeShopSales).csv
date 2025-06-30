@@ -1,0 +1,155 @@
+﻿TRANSACTION_TIME_BUCKET;Sum of TOTAL_AMOUNT
+20:00:00;2935,64
+19:00:00;28446,68
+18:00:00;34286,2
+17:00:00;40134,31
+16:00:00;41122,75
+15:00:00;41733,1
+14:00:00;41304,74
+13:00:00;40367,45
+12:00:00;40192,79
+11:00:00;46319,14
+10:00:00;88673,39
+09:00:00;85169,53
+08:00:00;82699,87
+07:00:00;63526,47
+06:00:00;21900,27
+Grand Total;698812,33
+;
+;
+PRODUCT_CATEGORY;Sum of TOTAL_QTY
+Bakery;23214
+Branded;776
+Coffee;89250
+Coffee beans;1828
+Drinking Chocolate;17457
+Flavours;10511
+Loose Tea;1210
+Packaged Chocolate;487
+Tea;69737
+Grand Total;214470
+;
+;
+;
+;
+;
+;
+;
+;
+;
+PRODUCT_DETAIL;Sum of TOTAL_AMOUNT
+Almond Croissant;7168,13
+Brazilian - Organic;3852
+Brazilian Lg;15109,5
+Brazilian Rg;13155
+Brazilian Sm;9482
+Cappuccino;15997,5
+Cappuccino Lg;17641,75
+Carmel syrup;2060,8
+Chili Mayan;1972,84
+Chocolate Chip Biscotti;6748,96
+Chocolate Croissant;11625,98
+Chocolate syrup;2126,4
+Civet Cat;11700
+Columbian Medium Roast;2220
+Columbian Medium Roast Lg;12585
+Columbian Medium Roast Rg;11367,5
+Columbian Medium Roast Sm;8356
+Cranberry Scone;6818,44
+Croissant;6861,88
+Dark chocolate;755,2
+Dark chocolate Lg;21006
+Dark chocolate Rg;14024,5
+Earl Grey;1270,9
+Earl Grey Lg;12735
+Earl Grey Rg;11770
+English Breakfast;1440,95
+English Breakfast Lg;12927
+English Breakfast Rg;10500
+Espresso Roast;2492,75
+Espresso shot;12495
+Ethiopia;4578
+Ethiopia Lg;14794,5
+Ethiopia Rg;13179
+Ethiopia Sm;9752,6
+Ginger Biscotti;6436,56
+Ginger Scone;8011,61
+Guatemalan Sustainably Grown;1340
+Hazelnut Biscotti;6608,01
+Hazelnut syrup;1897,6
+I Need My Bean! Diner mug;2935
+I Need My Bean! Latte cup;4509
+I Need My Bean! T-shirt;6163
+Jamacian Coffee River;2883,5
+Jamaican Coffee River Lg;16481,25
+Jamaican Coffee River Rg;12455,8
+Jamaican Coffee River Sm;9844,1
+Jumbo Savory Scone;7626,62
+Latte;17257,5
+Latte Rg;19112,25
+Lemon Grass;1360,4
+Lemon Grass Lg;12267
+Lemon Grass Rg;10812,5
+Morning Sunrise Chai;1596
+Morning Sunrise Chai Lg;17384
+Morning Sunrise Chai Rg;11607,5
+Oatmeal Scone;5460
+Organic Decaf Blend;4657,5
+Our Old Time Diner Blend;3294
+Our Old Time Diner Blend Lg;11991
+Our Old Time Diner Blend Rg;11025
+Our Old Time Diner Blend Sm;8968
+Ouro Brasileiro shot;8902,2
+Peppermint;1369,35
+Peppermint Lg;13050
+Peppermint Rg;11410
+Primo Espresso Roast;3067,5
+Scottish Cream Scone ;8949,45
+Serenity Green Tea;1470,75
+Serenity Green Tea Lg;12660
+Serenity Green Tea Rg;11192,5
+Spicy Eye Opener Chai;1335,9
+Spicy Eye Opener Chai Lg;13652,4
+Spicy Eye Opener Chai Rg;10636,05
+Sugar Free Vanilla syrup;2324
+Sustainably Grown Organic;1679,6
+Sustainably Grown Organic Lg;21151,75
+Sustainably Grown Organic Rg;16233,75
+Traditional Blend Chai;1369,35
+Traditional Blend Chai Lg;12522
+Traditional Blend Chai Rg;11280
+Grand Total;698812,33
+;
+;
+;
+PRODUCT_TYPE;Sum of TOTAL_AMOUNT
+Barista Espresso;91406,2
+Biscotti;19793,53
+Black tea;2711,85
+Brewed Black tea;47932
+Brewed Chai tea;77081,95
+Brewed Green tea;23852,5
+Brewed herbal tea;47539,5
+Chai tea;4301,25
+Clothing;6163
+Drinking Chocolate;2728,04
+Drip coffee;31984
+Espresso Beans;5560,25
+Gourmet Beans;6798
+Gourmet brewed coffee;70034,6
+Green beans;1340
+Green tea;1470,75
+Herbal tea;2729,75
+Hot chocolate;72416
+House blend Beans;3294
+Housewares;7444
+Organic Beans;8509,5
+Organic brewed coffee;37746,5
+Organic Chocolate;1679,6
+Pastry;25655,99
+Premium Beans;14583,5
+Premium brewed coffee;38781,15
+Regular syrup;6084,8
+Scone;36866,12
+Sugar free syrup;2324
+Grand Total;698812,33
