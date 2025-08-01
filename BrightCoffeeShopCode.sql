@@ -1,7 +1,4 @@
-SELECT 
-    transaction_id,
-    product_type,
-    transaction_qty,
+SELECT *,
     CAST(((REPLACE (unit_price, ',','.'))) AS DECIMAL(10,3)) AS casted_unit_price,
     unit_price*transaction_qty AS total_amount,
     store_location,
