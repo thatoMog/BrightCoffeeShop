@@ -2,7 +2,10 @@
 select distinct transaction_qty
 from `workspace`.`default`.`1773680391797_bright_coffee_shop_analysis_case_study_1`
 order by transaction_qty asc;
----Part 2 of EDA
+
+
+
+
 select count(DISTINCT transaction_id) AS total_orders,
       MIN(transaction_date) AS min_date,
       MAX(transaction_date) AS max_date,
@@ -53,9 +56,12 @@ select transaction_id,
             ELSE 'Invalid'
             end as time_category,
       CASE 
-            when transaction_qty = 1 then 'single'
-            WHEN transaction_qty BETWEEN 2 AND 5 THEN 'Team'
-            WHEN transaction_qty > 5 THEN 'Party'
-            END AS order_bucket
+            WHEN transaction_qty = 1 THEN 'Single'
+            WHEN transaction_qty BETWEEN 2 AND 3 THEN 'Couple/Small Group'
+            WHEN transaction_qty BETWEEN 4 AND 7 THEN 'Team'
+            WHEN transaction_qty BETWEEN 8 AND 15 THEN 'Party'
+            WHEN transaction_qty > 15 THEN 'Large Event'
+            ELSE 'Unknown'
+      END AS order_bucket
 from `workspace`.`default`.`1773680391797_bright_coffee_shop_analysis_case_study_1`
 ;
